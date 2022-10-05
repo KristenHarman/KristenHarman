@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, and ReactJS**
 
-- 👨‍💻 All of my projects are available at [kristenharman.me](kristenharman.me)
+- 👨‍💻 All of my projects are available at [https://kristenharman.me](https://kristenharman.me)
 
 - ⚡ Fun facts **I love to read, play videogames, and go on walks**
 
