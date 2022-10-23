@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristen</h1>
 <h3 align="center">A passionate Software Engineer specializing in Full-Stack Web Development</h3>
 
-- 🌱 I’m currently learning **JavaScript, NodeJS, and ReactJS**
+- 🌱 I’m currently learning **ReactJS and Data Strutures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://kristenharman.me](https://kristenharman.me)
 
